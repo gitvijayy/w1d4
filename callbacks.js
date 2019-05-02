@@ -5,6 +5,7 @@ function findWaldo(arr, found) {
     if (value === "Waldo") {
       found(index);
     }
+
   });
 
 }
