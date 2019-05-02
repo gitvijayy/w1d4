@@ -1,5 +1,5 @@
 var countdownGenerator = function (x) {
-  /* your code here */
+
   var minus = -1;
 
   return function() {
